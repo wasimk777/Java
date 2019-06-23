@@ -1,1 +1,2 @@
+hi
 this is my 6.txt
