@@ -1,2 +1,2 @@
-hi..lets do it again
+ok hi..lets do it again
 this is second commit on 6.txt
